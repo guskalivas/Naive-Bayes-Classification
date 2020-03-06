@@ -1,6 +1,5 @@
 # Name: Gus Kalivas
-# Program: p4 classify
-# Wisc: wkalivas@wics.edu
+
 import os
 import math
 
